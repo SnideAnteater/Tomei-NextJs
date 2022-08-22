@@ -41,6 +41,13 @@
 .buttonSave{
   background-color: #C5DCFA;
   color: #0A3977;
+  border-radius: 0.5em;
+  width: 12em;
+  height: 3em;
+}
+
+.buttonDiv{
+
 }
 
 .main {
